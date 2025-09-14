@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://landesk-asset-lifecycle-manager.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_LANDesk_Asset_Manager-blue?style=for-the-badge&logo=github" alt="Get LANDesk Asset Lifecycle Manager"/>
+    <img src="https://cmit.fr/wp-content/uploads/2016/07/landesk.png" alt="Get LANDesk Asset Lifecycle Manager"/>
   </a>
 </p>
 
